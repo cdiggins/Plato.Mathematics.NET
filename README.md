@@ -114,4 +114,4 @@ public interface AdditiveArithmetic<Self, T>
 
 While the output of the Plato to C# translator is relatively robust, the tooling for Plato is still in a very experimental stage and not ready for wider distribution. 
 
-Reach out to me, [Christopher Diggins](mailto:cdiggins@gmail.com). 
+Reach out to me, [Christopher Diggins](mailto:cdiggins@gmail.com), if you want to learn more or get involved. 
