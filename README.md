@@ -1,6 +1,6 @@
 # Plato.Mathematics.NET
 
-A modern mathematical library for C# and .NET Standard 2.0 written in Plato and cross-compiled into C#.  
+A modern mathematical library for C# and .NET Standard 2.0 written in [Plato](https://github.com/cdiggins/plato/) and cross-compiled into C#.  
 
 # Motivation
 
